@@ -23,3 +23,8 @@
     5.支付
       a.打赏，打赏给球队、球员任何人礼物（要平平台分成）
       b.球场使用费用,平台与球场分成
+
+## 脑图 
+
+## 原型图
+https://free.modao.cc/app/GHvCeShQI6TkBjbZ1rbT1V0YjT0H1mt
