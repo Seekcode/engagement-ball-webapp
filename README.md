@@ -25,6 +25,6 @@
       b.球场使用费用,平台与球场分成
 
 ## 脑图 
-https://free.modao.cc/app/GHvCeShQI6TkBjbZ1rbT1V0YjT0H1mt
+http://naotu.baidu.com/file/6276ca45ed99b295165816ec043b7f8c?token=8f73ef7f5edd8581
 ## 原型图
 https://free.modao.cc/app/GHvCeShQI6TkBjbZ1rbT1V0YjT0H1mt
